@@ -380,4 +380,90 @@ nav .fa-solid{
     .copyright{
         font-size: 14px;
     }
+    .work img{
+        width: 70%;
+        height: 70%;
+        margin-left: 50px;
+    }
+    .smm h2{
+        font-size: 2px;
+    }
+    
+    .service-col-1, .service-col-2{
+        flex-basis: 100%;
+    }
+    .service-col-2 h3{
+        font-size: 20px;
+    }
+    .service-col-2 li{
+        font-size: 13px;
+    }
+    .service-col-2 p{
+        font-size: 13px;
+    }
+    #amazon h1{
+        margin-top: -70px;
+        font-size: 25px;
+        margin-bottom: -30px;
+    }
+    .amazon-col-1, .amazon-col-2{
+        flex-basis: 100%;
+    }
+    .amazon-col-2{
+        margin-top: 10px;
+    }
+    .amazon-col-2 li{
+        font-size: 13px;
+    }
+    #meesho h1{
+        margin-top: -70px;
+        font-size: 25px;
+        margin-bottom: -30px;
+    }
+    .meesho-col-1, .meesho-col-2{
+        flex-basis: 100%;
+    }
+    .meesho-col-2 h4{
+        font-size: 20px;
+    }
+    .meesho-col-2 p{
+        font-size: 13px;
+    }
+    .meesho-col-2 li{
+        font-size: 13px;
+    }
+    #flipkart h1{
+        margin-top: -70px;
+        font-size: 25px;
+        margin-bottom: -30px;
+    }
+    .flipkart-col-1, .flipkart-col-2{
+        flex-basis: 100%;
+    }
+    .flipkart-col-2 h3{
+        font-size: 16px;
+    }
+    .flipkart-col-2 p{
+        font-size: 13px;
+    }
+    .flipkart-col-2 li{
+        font-size: 13px;
+    }
+    #glowroad h1{
+        margin-top: -70px;
+        font-size: 25px;
+        margin-bottom: -30px;
+    }
+    .glowroad-col-1, .glowroad-col-2{
+        flex-basis: 100%;
+    }
+    .glowroad-col-2 h3{
+        font-size: 16px;
+    }
+    .glowroad-col-2 p{
+        font-size: 13px;
+    }
+    .glowroad-col-2 li{
+        font-size: 13px;
+    }
 }
